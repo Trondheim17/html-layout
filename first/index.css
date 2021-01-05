@@ -1,0 +1,39 @@
+.large-grey-box{
+    width: 100vw;
+    height: 20vh;
+    background-color: grey;
+    
+}
+
+.left-light-grey-box{
+    display: inline-block;
+    width: 10vw;
+    height: 80vh;
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+ 
+}
+
+.black-box{
+    display: inline-block;
+    width: 77vw;
+    height: 10vh;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.right-light-grey-box{
+    display: inline-block;
+    width: 10vw;
+    height: 80vh;
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+ 
